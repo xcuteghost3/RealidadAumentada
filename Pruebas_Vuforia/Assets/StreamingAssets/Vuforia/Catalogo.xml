@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Navidad_VuF" size="3.000000 3.000000" />
+    <ImageTarget name="Hallowen_VuF" size="3.000000 3.000000" />
+    <ImageTarget name="Gatito_VuF" size="3.000000 3.000000" />
+    <ImageTarget name="Pascua32" size="3.000000 3.000000" />
+    <ImageTarget name="Pascua" size="100.000000 100.000000" />
+    <ImageTarget name="Hallowen" size="100.000000 100.000000" />
+    <ImageTarget name="Chocolate" size="100.000000 100.000000" />
+  </Tracking>
+</QCARConfig>
